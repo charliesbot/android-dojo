@@ -88,6 +88,8 @@ android-dojo/
         │       └── WearLoginScreen.kt
         │
         ├── dashboard/        # Dashboard feature package
+        │   ├── di/
+        │   │   └── DashboardModule.kt # DI for dashboard ViewModels
         │   ├── DashboardViewModel.kt
         │   └── DashboardScreen.kt
         │
