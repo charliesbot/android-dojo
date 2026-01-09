@@ -1,0 +1,3 @@
+Corrección de errores y mejoras de rendimiento.
+
+¡Gracias por usar [Your App Name]!
